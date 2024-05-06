@@ -1,8 +1,10 @@
 # An Open Source Dataset For Social Networks Built on China's Microblogging (Weibo) Social Platform
 
-# Source Paper 
+# Please Cite 
 
-**Please Cite**: Yang Z, Pang Y, Li Q, et al. A model for early rumor detection base on topic-derived domain compensation and multi-user association[J]. Expert Systems with Applications, 2024: 123951. [Online]. Available: https://doi.org/10.1016/j.eswa.2024.123951.
+**Source Paper**: Yang Z, Pang Y, Li Q, et al. A model for early rumor detection base on topic-derived domain compensation and multi-user association[J]. Expert Systems with Applications, 2024: 123951. [Online]. Available: https://doi.org/10.1016/j.eswa.2024.123951.
+
+`a`
 
 # Weibo Version 1 (V1)
 
