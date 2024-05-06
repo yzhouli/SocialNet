@@ -16,9 +16,9 @@ Baidu link: https://aistudio.baidu.com/datasetdetail/270604.
 
 **Special note:** Due to space limitations in the Github repository, the **full V2 dataset** is available elsewhere. 
 
-Kaggle link: [https://www.kaggle.com/datasets/yangzhou32/socialnet-weibo-version-1](https://www.kaggle.com/datasets/yangzhou32/socialnet-weibo-version-2). 
+Kaggle link: [https://www.kaggle.com/datasets/yangzhou32/socialnet-weibo-version-2](https://www.kaggle.com/datasets/yangzhou32/socialnet-weibo-version-2). 
 
-Baidu link: [https://aistudio.baidu.com/datasetdetail/270604](https://aistudio.baidu.com/datasetdetail/270658).
+Baidu link: [https://aistudio.baidu.com/datasetdetail/270658](https://aistudio.baidu.com/datasetdetail/270658).
 
 # Please Cite 
 
