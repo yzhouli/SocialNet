@@ -8,4 +8,4 @@
 
 **Source paper:** Yang Z, Pang Y, Li Q, et al. **A model for early rumor detection base on topic-derived domain compensation and multi-user association**[J]. Expert Systems with Applications, 2024: 123951. [Online]. Available: https://doi.org/10.1016/j.eswa.2024.123951.
 
-**Special note:** Due to space limitations in the Github repository, the **full V1 dataset** is available elsewhere. Kaggle link: https://www.kaggle.com/datasets/yangzhou32/socialnet-weibo-version-1. Baidu link: https:// aistudio.baidu.com/datasetdetail/270604.
+**Special note:** Due to space limitations in the Github repository, the **full V1 dataset** is available elsewhere. Kaggle link: https://www.kaggle.com/datasets/yangzhou32/socialnet-weibo-version-1. Baidu link: https://aistudio.baidu.com/datasetdetail/270604.
