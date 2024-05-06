@@ -4,7 +4,14 @@
 
 **Source Paper**: Yang Z, Pang Y, Li Q, et al. A model for early rumor detection base on topic-derived domain compensation and multi-user association[J]. Expert Systems with Applications, 2024: 123951. [Online]. Available: https://doi.org/10.1016/j.eswa.2024.123951.
 
-`a`
+`@article{yang2024model,
+  title={A model for early rumor detection base on topic-derived domain compensation and multi-user association},
+  author={Yang, Zhou and Pang, Yucai and Li, Qian and Wei, Shihong and Wang, Rong and Xiao, Yunpeng},
+  journal={Expert Systems with Applications},
+  pages={123951},
+  year={2024},
+  publisher={Elsevier}
+}`
 
 # Weibo Version 1 (V1)
 
