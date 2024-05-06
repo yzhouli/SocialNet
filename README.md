@@ -1,2 +1,5 @@
-# An Open Source Dataset For Social Networks Built on Social Platform
+# A Public Dataset Based on Mainstream Social Platforms
 
+# Weibo Dataset
+
+## V1
