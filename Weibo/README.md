@@ -1,4 +1,4 @@
-# A Open Source Dataset For Social Networks Built on China's Microblogging (Weibo) Social Platform
+# A publicly available dataset based on the microblogging (Weibo) social platform
 
 # Weibo Version 1 (V1)
 
