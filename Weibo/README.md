@@ -1,4 +1,4 @@
-# A publicly available dataset based on the microblogging (Weibo) social platform
+# A Publicly Available Dataset Based on The Microblogging (Weibo) Social Platform
 
 # Weibo Version 1 (V1)
 
