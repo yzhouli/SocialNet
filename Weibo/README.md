@@ -20,6 +20,10 @@ Kaggle link: [https://www.kaggle.com/datasets/yangzhou32/socialnet-weibo-version
 
 Baidu link: [https://aistudio.baidu.com/datasetdetail/270658](https://aistudio.baidu.com/datasetdetail/270658).
 
+# Weibo Version 3 (V3)
+
+**Description:** Update in progress. The **next version** of the larger dataset is expected to be released **in the latter half of 2025**.
+
 # Please Cite 
 
 **Source Paper**: Yang Z, Pang Y, Li Q, et al. A model for early rumor detection base on topic-derived domain compensation and multi-user association[J]. Expert Systems with Applications, 2024: 123951. [Online]. Available: https://doi.org/10.1016/j.eswa.2024.123951.
