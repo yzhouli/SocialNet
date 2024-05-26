@@ -10,7 +10,7 @@
 
 # TikTok Dataset
 
-In progress. Please wait.
+In progress. Please wait. The **first version** of the TikTok dataset is expected to be released in **July 2024**.
 
 # Twitter (X) Dataset
 
