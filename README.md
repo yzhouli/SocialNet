@@ -6,7 +6,7 @@
 
 **V2:** Includes **11,329** number of news from the Chinese microblogging social media platform. There are **5,661 fake news** items and **5,668 real news** items. Comparable to version 1 (V1), version 2 (V2) expands the data magnitude on the basis of V1. Meanwhile, V2 provides news **multi-modal data**, including **news posts**, **comment collections**, **images**, **videos** and **voice information**. As a result, V2 provides a better simulation of the real environment of social networks, thus supporting downstream tasks. 
 
-**V3** In progress. Please wait. The next version of the larger dataset is expected to be released in the latter half of 2025.
+**V3:** In progress. Please wait. The next version of the larger dataset is expected to be released in the latter half of 2025.
 
 **Datsets link:** https://github.com/yzhouli/SocialNet/tree/master/Weibo.
 
