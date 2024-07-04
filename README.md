@@ -12,7 +12,9 @@
 
 # TikTok Dataset
 
-In progress. Please wait. The **first version** of the TikTok dataset is expected to be released in **July 2024**.
+**V1:** Includes multimodal event propagation features. Moreover, the TikTok dataset can provide real data support for downstream tasks.
+
+**V2:** In progress. Please wait. The **first version** of the TikTok dataset is expected to be released in **2025**.
 
 # Twitter (X) Dataset
 
