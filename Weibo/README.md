@@ -2,7 +2,7 @@
 
 # Weibo Version 1 (V1)
 
-**Description:** Includes data on 2,106 news items from the microblogging platform in the half of 2023. There are 1,000 fake news and 1,067 real news. The dataset consists of comment data on news spreads and contains **user** and **comment information**. 
+**Description:** Includes data on 2,106 news items from the microblogging platform in the half of 2023. There are 1,000 fake news and 1,067 real news. The dataset consists of comment data on news spreads and contains **user**, **comment**, and **Multi-model information**. 
 
 **Special note:** Due to space limitations in the Github repository, the **full V1 dataset** is available elsewhere. 
 
